@@ -376,7 +376,7 @@ function GetGreatWorkIcon(greatWorkInfo:table)
 	-- Unearthed - start
 	greatWorkIcon = "ICON_" .. greatWorkInfo.GreatWorkType;
 
-	print("DEBUG greatWorkIcon " + greatWorkIcon);
+	print("DEBUG greatWorkIcon " .. greatWorkIcon);
 	-- Unearthed - end
 
 	local textureOffsetX:number, textureOffsetY:number, textureSheet:string = IconManager:FindIconAtlas(greatWorkIcon, SIZE_GREAT_WORK_ICON);

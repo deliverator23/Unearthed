@@ -164,7 +164,7 @@ function UpdateGreatWork()
 			Controls.GreatWorkImage:SetOffsetY(-40);
         end
 
-        print("DEBUG greatWorkTexture " + greatWorkTexture);
+        print("DEBUG greatWorkTexture " .. greatWorkTexture);
         -- Unearthed - end
 
 		Controls.GreatWorkImage:SetTexture(greatWorkTexture);

@@ -546,6 +546,8 @@
 		<Element>
 			<libraryName text="UITexture"/>
 			<relativePackagePaths>
+				<Element text="UI/UI_Icons.blp"/>
+				<Element text="UI/UI_GreatWorksArt.blp"/>
 				<Element text="UI/UI_Icons_Unearthed.blp"/>
 				<Element text="UI/UI_GreatWorksArt_Unearthed.blp"/>
 			</relativePackagePaths>
