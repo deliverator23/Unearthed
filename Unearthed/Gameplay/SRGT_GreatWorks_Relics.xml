@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameInfo>
+	<Types>
+		<!-- Relics -->
+		<Row Type="GREATWORK_SRGT_RELIC_01" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_SRGT_RELIC_02" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_SRGT_RELIC_03" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_SRGT_RELIC_04" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_SRGT_RELIC_05" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_SRGT_RELIC_06" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_SRGT_RELIC_07" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_SRGT_RELIC_08" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_SRGT_RELIC_09" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_SRGT_RELIC_10" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_SRGT_RELIC_11" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_SRGT_RELIC_12" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_SRGT_RELIC_13" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_SRGT_RELIC_14" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_SRGT_RELIC_15" Kind="KIND_GREATWORK"/>
+	</Types>
+
+	<GreatWorks>
+		<!-- Relics -->
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_01" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_SRGT_RELIC_01_NAME" Tourism="8"/>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_02" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_SRGT_RELIC_02_NAME" Tourism="8"/>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_03" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_SRGT_RELIC_03_NAME" Tourism="8"/>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_04" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_SRGT_RELIC_04_NAME" Tourism="8"/>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_05" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_SRGT_RELIC_05_NAME" Tourism="8"/>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_06" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_SRGT_RELIC_06_NAME" Tourism="8"/>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_07" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_SRGT_RELIC_07_NAME" Tourism="8"/>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_08" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_SRGT_RELIC_08_NAME" Tourism="8"/>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_09" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_SRGT_RELIC_09_NAME" Tourism="8"/>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_10" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_SRGT_RELIC_10_NAME" Tourism="8"/>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_11" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_SRGT_RELIC_11_NAME" Tourism="8"/>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_12" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_SRGT_RELIC_12_NAME" Tourism="8"/>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_13" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_SRGT_RELIC_13_NAME" Tourism="8"/>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_14" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_SRGT_RELIC_14_NAME" Tourism="8"/>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_15" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_SRGT_RELIC_15_NAME" Tourism="8"/>
+	</GreatWorks>
+
+	<GreatWork_YieldChanges>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_01" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_02" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_03" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_04" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_05" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_06" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_07" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_08" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_09" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_10" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_11" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_12" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_13" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_14" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_SRGT_RELIC_15" YieldType="YIELD_FAITH" YieldChange="4"/>
+	</GreatWork_YieldChanges>
+</GameInfo>

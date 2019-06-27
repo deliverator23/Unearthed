@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_1_NAME" Language="en-US">
+			<Text>Handaxe</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_2_NAME" Language="en-US">
+			<Text>Mammoth Carving</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_3_NAME" Language="en-US">
+			<Text>Spear Point</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

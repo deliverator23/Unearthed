@@ -1,0 +1,1 @@
+DELETE FROM GreatWorks WHERE GreatWorkObjectType = 'GREATWORKOBJECT_ARTIFACT';

@@ -1,0 +1,13 @@
+Starting AssetCooker...
+XLP cook starting...
+D:\Civ6Mod\gitproject\Unearthed\Unearthed\XLPs\UI_Icons_Unearthed.xlp
+Opened output file: C:\Users\User\Documents\My Games\Sid Meier's Civilization VI\Mods\Unearthed\Platforms\MacOS\BLPs/UI/UI_Icons_Unearthed.blp    For XLP: 'D:\Civ6Mod\gitproject\Unearthed\Unearthed\XLPs\UI_Icons_Unearthed.xlp'
+Could not load digest key: ''.  Using mod key to sign BLP.
+Starting 'UI/UI_Icons_Unearthed'
+XLP (UI/UI_Icons_Unearthed) contains no entries.
+Load finished for: 'UI/UI_Icons_Unearthed' in 0.000 seconds
+Cook finished for: 'UI/UI_Icons_Unearthed' in 0.000 seconds
+Disk write finished for: 'UI/UI_Icons_Unearthed' in 0.175 seconds
+Cleanup finished for: 'UI/UI_Icons_Unearthed' in 0.000 seconds
+XLP cook completed with success.
+Cook completed in 1.835 seconds

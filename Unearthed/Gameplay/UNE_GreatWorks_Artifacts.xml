@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameInfo>
+	<Types>
+		<Row Type="GREATWORK_UNE_ARTIFACT_1" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_ARTIFACT_2" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_ARTIFACT_3" Kind="KIND_GREATWORK"/>
+	</Types>
+
+	<GreatWorks>
+		<Row GreatWorkType="GREATWORK_UNE_ARTIFACT_1" GreatWorkObjectType="GREATWORKOBJECT_ARTIFACT" Name="LOC_GREATWORK_UNE_ARTIFACT_1_NAME" Tourism="3" EraType="ERA_ANCIENT"/>
+		<Row GreatWorkType="GREATWORK_UNE_ARTIFACT_2" GreatWorkObjectType="GREATWORKOBJECT_ARTIFACT" Name="LOC_GREATWORK_UNE_ARTIFACT_2_NAME" Tourism="3" EraType="ERA_ANCIENT"/>
+		<Row GreatWorkType="GREATWORK_UNE_ARTIFACT_3" GreatWorkObjectType="GREATWORKOBJECT_ARTIFACT" Name="LOC_GREATWORK_UNE_ARTIFACT_3_NAME" Tourism="3" EraType="ERA_ANCIENT"/>
+	</GreatWorks>
+
+	<GreatWork_YieldChanges>
+		<Row GreatWorkType="GREATWORK_UNE_ARTIFACT_1" YieldType="YIELD_CULTURE" YieldChange="3"/>
+		<Row GreatWorkType="GREATWORK_UNE_ARTIFACT_2" YieldType="YIELD_CULTURE" YieldChange="3"/>
+		<Row GreatWorkType="GREATWORK_UNE_ARTIFACT_3" YieldType="YIELD_CULTURE" YieldChange="3"/>
+	</GreatWork_YieldChanges>
+</GameInfo>
