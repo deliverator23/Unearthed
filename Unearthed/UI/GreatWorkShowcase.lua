@@ -159,6 +159,7 @@ function UpdateGreatWork()
 			Controls.GreatWorkImage:SetOffsetY(0);
 		else
 			Controls.GreatWorkImage:SetOffsetY(-40);
+		end
 		Controls.GreatWorkImage:SetTexture(greatWorkTexture);
 		Controls.GreatWorkName:SetText(Locale.ToUpper(Locale.Lookup(greatWorkInfo.Name)));
 		local nameSize:number = Controls.GreatWorkName:GetSizeX() + PADDING_BANNER;
