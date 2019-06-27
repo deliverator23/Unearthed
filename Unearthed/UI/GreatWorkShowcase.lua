@@ -21,8 +21,10 @@ local LOC_BACK_TO_GREAT_WORKS:string = Locale.Lookup("LOC_GREAT_WORKS_BACK_TO_GR
 local DETAILS_OFFSET_DEFAULT:number = -26;
 local DETAILS_OFFSET_WRITING:number = -90;
 local DETAILS_OFFSET_MUSIC:number = -277;
-local NUM_ARIFACT_TEXTURES:number = 25;
-local NUM_RELIC_TEXTURES:number = 24;
+-- Unearthed - start
+--local NUM_ARIFACT_TEXTURES:number = 25;
+--local NUM_RELIC_TEXTURES:number = 24;
+-- Unearthed - end
 local SIZE_MAX_IMAGE_HEIGHT:number = 467;
 local SIZE_BANNER_MIN:number = 506;
 local PADDING_BANNER:number = 120;
@@ -153,13 +155,18 @@ function UpdateGreatWork()
 			Controls.WritingDeco:SetOffsetY(Controls.WritingName:GetSizeY() + -20);
 		end
 		Controls.WritingDetails:SetHide(false);
-	else
+    else
+        -- Unearthed - start
 		local greatWorkTexture:string = greatWorkType:gsub("GREATWORK_", "");
 		if greatWorkObjectType == GREAT_WORK_ARTIFACT_TYPE or greatWorkObjectType == GREAT_WORK_RELIC_TYPE then
 			Controls.GreatWorkImage:SetOffsetY(0);
 		else
 			Controls.GreatWorkImage:SetOffsetY(-40);
-		end
+        end
+
+        print("DEBUG greatWorkTexture " + greatWorkTexture);
+        -- Unearthed - end
+
 		Controls.GreatWorkImage:SetTexture(greatWorkTexture);
 		Controls.GreatWorkName:SetText(Locale.ToUpper(Locale.Lookup(greatWorkInfo.Name)));
 		local nameSize:number = Controls.GreatWorkName:GetSizeX() + PADDING_BANNER;

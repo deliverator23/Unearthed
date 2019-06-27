@@ -372,10 +372,12 @@ end
 function GetGreatWorkIcon(greatWorkInfo:table)
 
 	local greatWorkIcon:string;
-	
+
+	-- Unearthed - start
 	greatWorkIcon = "ICON_" .. greatWorkInfo.GreatWorkType;
 
 	print("DEBUG greatWorkIcon " + greatWorkIcon);
+	-- Unearthed - end
 
 	local textureOffsetX:number, textureOffsetY:number, textureSheet:string = IconManager:FindIconAtlas(greatWorkIcon, SIZE_GREAT_WORK_ICON);
 	if(textureSheet == nil or textureSheet == "") then
