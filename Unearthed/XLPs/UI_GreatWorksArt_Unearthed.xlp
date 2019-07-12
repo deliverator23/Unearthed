@@ -21,6 +21,282 @@
 			<m_EntryID text="UNE_ARTIFACT_3"/>
 			<m_ObjectName text="UNE_ARTIFACT_3"/>
 		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_4"/>
+			<m_ObjectName text="UNE_ARTIFACT_4"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_5"/>
+			<m_ObjectName text="UNE_ARTIFACT_5"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_6"/>
+			<m_ObjectName text="UNE_ARTIFACT_6"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_7"/>
+			<m_ObjectName text="UNE_ARTIFACT_7"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_8"/>
+			<m_ObjectName text="UNE_ARTIFACT_8"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_9"/>
+			<m_ObjectName text="UNE_ARTIFACT_9"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_10"/>
+			<m_ObjectName text="UNE_ARTIFACT_10"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_11"/>
+			<m_ObjectName text="UNE_ARTIFACT_11"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_12"/>
+			<m_ObjectName text="UNE_ARTIFACT_12"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_13"/>
+			<m_ObjectName text="UNE_ARTIFACT_13"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_14"/>
+			<m_ObjectName text="UNE_ARTIFACT_14"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_15"/>
+			<m_ObjectName text="UNE_ARTIFACT_15"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_16"/>
+			<m_ObjectName text="UNE_ARTIFACT_16"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_17"/>
+			<m_ObjectName text="UNE_ARTIFACT_17"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_18"/>
+			<m_ObjectName text="UNE_ARTIFACT_18"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_19"/>
+			<m_ObjectName text="UNE_ARTIFACT_19"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_20"/>
+			<m_ObjectName text="UNE_ARTIFACT_20"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_21"/>
+			<m_ObjectName text="UNE_ARTIFACT_21"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_22"/>
+			<m_ObjectName text="UNE_ARTIFACT_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_23"/>
+			<m_ObjectName text="UNE_ARTIFACT_23"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_24"/>
+			<m_ObjectName text="UNE_ARTIFACT_24"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_25"/>
+			<m_ObjectName text="UNE_ARTIFACT_25"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_26"/>
+			<m_ObjectName text="UNE_ARTIFACT_26"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_27"/>
+			<m_ObjectName text="UNE_ARTIFACT_27"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_28"/>
+			<m_ObjectName text="UNE_ARTIFACT_28"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_29"/>
+			<m_ObjectName text="UNE_ARTIFACT_29"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_30"/>
+			<m_ObjectName text="UNE_ARTIFACT_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_31"/>
+			<m_ObjectName text="UNE_ARTIFACT_31"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_32"/>
+			<m_ObjectName text="UNE_ARTIFACT_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_33"/>
+			<m_ObjectName text="UNE_ARTIFACT_33"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_34"/>
+			<m_ObjectName text="UNE_ARTIFACT_34"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_35"/>
+			<m_ObjectName text="UNE_ARTIFACT_35"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_36"/>
+			<m_ObjectName text="UNE_ARTIFACT_36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_37"/>
+			<m_ObjectName text="UNE_ARTIFACT_37"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_38"/>
+			<m_ObjectName text="UNE_ARTIFACT_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_39"/>
+			<m_ObjectName text="UNE_ARTIFACT_39"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_40"/>
+			<m_ObjectName text="UNE_ARTIFACT_40"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_41"/>
+			<m_ObjectName text="UNE_ARTIFACT_41"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_42"/>
+			<m_ObjectName text="UNE_ARTIFACT_42"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_43"/>
+			<m_ObjectName text="UNE_ARTIFACT_43"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_44"/>
+			<m_ObjectName text="UNE_ARTIFACT_44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_ARTIFACT_45"/>
+			<m_ObjectName text="UNE_ARTIFACT_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_RELIC_1"/>
+			<m_ObjectName text="UNE_RELIC_1"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_RELIC_2"/>
+			<m_ObjectName text="UNE_RELIC_2"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_RELIC_3"/>
+			<m_ObjectName text="UNE_RELIC_3"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_RELIC_4"/>
+			<m_ObjectName text="UNE_RELIC_4"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_RELIC_5"/>
+			<m_ObjectName text="UNE_RELIC_5"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_RELIC_6"/>
+			<m_ObjectName text="UNE_RELIC_6"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_RELIC_7"/>
+			<m_ObjectName text="UNE_RELIC_7"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_RELIC_8"/>
+			<m_ObjectName text="UNE_RELIC_8"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_RELIC_9"/>
+			<m_ObjectName text="UNE_RELIC_9"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_RELIC_10"/>
+			<m_ObjectName text="UNE_RELIC_10"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_RELIC_11"/>
+			<m_ObjectName text="UNE_RELIC_11"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_RELIC_12"/>
+			<m_ObjectName text="UNE_RELIC_12"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_RELIC_13"/>
+			<m_ObjectName text="UNE_RELIC_13"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_RELIC_14"/>
+			<m_ObjectName text="UNE_RELIC_14"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_RELIC_15"/>
+			<m_ObjectName text="UNE_RELIC_15"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_RELIC_16"/>
+			<m_ObjectName text="UNE_RELIC_16"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_RELIC_17"/>
+			<m_ObjectName text="UNE_RELIC_17"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_RELIC_18"/>
+			<m_ObjectName text="UNE_RELIC_18"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_RELIC_19"/>
+			<m_ObjectName text="UNE_RELIC_19"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_RELIC_20"/>
+			<m_ObjectName text="UNE_RELIC_20"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_RELIC_21"/>
+			<m_ObjectName text="UNE_RELIC_21"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_RELIC_22"/>
+			<m_ObjectName text="UNE_RELIC_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_RELIC_23"/>
+			<m_ObjectName text="UNE_RELIC_23"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_RELIC_24"/>
+			<m_ObjectName text="UNE_RELIC_24"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_RELIC_25"/>
+			<m_ObjectName text="UNE_RELIC_25"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_RELIC_26"/>
+			<m_ObjectName text="UNE_RELIC_26"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNE_RELIC_27"/>
+			<m_ObjectName text="UNE_RELIC_27"/>
+		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>

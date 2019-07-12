@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_1_NAME" Language="en-US">
+			<Text>Ritual Vessel</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_2_NAME" Language="en-US">
+			<Text>Stone Mask</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_3_NAME" Language="en-US">
+			<Text>Agate Bowl</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_4_NAME" Language="en-US">
+			<Text>Altar Cruet</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_5_NAME" Language="en-US">
+			<Text>Bronze Mirror</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_6_NAME" Language="en-US">
+			<Text>Etowah Plates</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_7_NAME" Language="en-US">
+			<Text>Funerary Mask</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_8_NAME" Language="en-US">
+			<Text>Holy Thorn</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_9_NAME" Language="en-US">
+			<Text>Icon</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_10_NAME" Language="en-US">
+			<Text>Illuminated Manuscript</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_11_NAME" Language="en-US">
+			<Text>Iron Crown</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_12_NAME" Language="en-US">
+			<Text>Jaguar Bottle</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_13_NAME" Language="en-US">
+			<Text>Kneeling Mother</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_14_NAME" Language="en-US">
+			<Text>Mandala</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_15_NAME" Language="en-US">
+			<Text>Mother Goddess</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_16_NAME" Language="en-US">
+			<Text>Nanteos Cup</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_17_NAME" Language="en-US">
+			<Text>Nkosi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_18_NAME" Language="en-US">
+			<Text>Offering Bowl</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_19_NAME" Language="en-US">
+			<Text>Omphalos</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_20_NAME" Language="en-US">
+			<Text>Ruyi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_21_NAME" Language="en-US">
+			<Text>Sacred Scroll</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_22_NAME" Language="en-US">
+			<Text>Sword of the Emperor</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_23_NAME" Language="en-US">
+			<Text>Tomb Figure</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_24_NAME" Language="en-US">
+			<Text>Tree of Life Ewer</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_25_NAME" Language="en-US">
+			<Text>Tumi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_26_NAME" Language="en-US">
+			<Text>Warka Mask</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_27_NAME" Language="en-US">
+			<Text>Warrior Pot</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

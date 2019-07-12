@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameInfo>
+	<Types>
+		<Row Type="GREATWORK_UNE_RELIC_1" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_2" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_3" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_4" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_5" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_6" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_7" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_8" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_9" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_10" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_11" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_12" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_13" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_14" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_15" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_16" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_17" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_18" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_19" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_20" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_21" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_22" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_23" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_24" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_25" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_26" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_27" Kind="KIND_GREATWORK"/>
+	</Types>
+	<GreatWorks>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_1" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_1_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_2" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_2_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_3" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_3_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_4" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_4_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_5" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_5_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_6" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_6_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_7" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_7_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_8" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_8_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_9" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_9_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_10" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_10_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_11" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_11_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_12" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_12_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_13" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_13_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_14" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_14_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_15" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_15_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_16" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_16_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_17" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_17_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_18" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_18_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_19" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_19_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_20" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_20_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_21" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_21_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_22" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_22_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_23" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_23_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_24" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_24_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_25" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_25_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_26" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_26_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_27" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_27_NAME" Tourism="8" EraType=""/>
+	</GreatWorks>
+	<GreatWork_YieldChanges>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_1" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_2" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_3" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_4" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_5" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_6" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_7" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_8" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_9" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_10" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_11" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_12" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_13" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_14" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_15" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_16" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_17" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_18" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_19" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_20" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_21" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_22" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_23" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_24" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_25" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_26" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_27" YieldType="YIELD_FAITH" YieldChange="4"/>
+	</GreatWork_YieldChanges>
+</GameInfo>

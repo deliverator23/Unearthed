@@ -10,16 +10,6 @@
     <m_RootCollections/>
     <m_BLPReferences>
         <Element>
-            <xlpFile text="UI_Icons.xlp"/>
-            <blpPackage text="UI/UI_Icons"/>
-            <xlpClass text="UITexture"/>
-        </Element>
-        <Element>
-            <xlpFile text="UI_GreatWorksArt.xlp"/>
-            <blpPackage text="UI/UI_GreatWorksArt"/>
-            <xlpClass text="UITexture"/>
-        </Element>
-        <Element>
             <xlpFile text="UI_Icons_Unearthed.xlp"/>  
             <blpPackage text="UI/UI_Icons_Unearthed"/>
             <xlpClass text="UITexture"/>
