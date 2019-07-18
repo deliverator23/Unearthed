@@ -217,6 +217,8 @@ end
 function HideScreen()
 	ContextPtr:SetHide(true);
 	UI.PlaySound("Stop_Great_Music");
+    UI.PlaySound("Stop_Magnum_Opus_1");
+    UI.PlaySound("Stop_Magnum_Opus_2");
 	UI.PlaySound("Stop_Speech_GreatWriting");
     UI.PlaySound("Stop_Great_Works_Gallery_Ambience");
 end
@@ -287,6 +289,8 @@ function OnPreviousGreatWork()
 	if numGreatWorks > 1 then
         
 		UI.PlaySound("Stop_Great_Music");
+        UI.PlaySound("Stop_Magnum_Opus_1");
+        UI.PlaySound("Stop_Magnum_Opus_2");
 		UI.PlaySound("Stop_Speech_GreatWriting");
         UI.PlaySound("UI_Click_Sweetener_Metal_Button_Small");
 
@@ -303,6 +307,8 @@ function OnNextGreatWork()
 	if numGreatWorks > 1 then
 
         UI.PlaySound("Stop_Great_Music");
+        UI.PlaySound("Stop_Magnum_Opus_1");
+        UI.PlaySound("Stop_Magnum_Opus_2");
 		UI.PlaySound("Stop_Speech_GreatWriting");
         UI.PlaySound("UI_Click_Sweetener_Metal_Button_Small");
 
