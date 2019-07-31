@@ -371,10 +371,8 @@ end
 
 function GetGreatWorkIcon(greatWorkInfo:table)
 
-	local greatWorkIcon:string;
-
 	-- Unearthed - start
-	greatWorkIcon = "ICON_" .. greatWorkInfo.GreatWorkType;
+    local greatWorkIcon  = "ICON_" .. greatWorkInfo.GreatWorkType;
 
 	print("DEBUG greatWorkIcon " .. greatWorkIcon);
 	-- Unearthed - end
