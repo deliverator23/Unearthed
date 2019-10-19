@@ -1,139 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_1_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_1_NAME" Language="en_US">
 			<Text>Handaxe</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_2_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_2_NAME" Language="en_US">
 			<Text>Mammoth Carving</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_3_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_3_NAME" Language="en_US">
 			<Text>Spear Point</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_4_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_4_NAME" Language="en_US">
 			<Text>Seal</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_5_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_5_NAME" Language="en_US">
 			<Text>Jade Axe</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_6_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_6_NAME" Language="en_US">
 			<Text>Gold Cape</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_7_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_7_NAME" Language="en_US">
 			<Text>Gold Coin</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_8_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_8_NAME" Language="en_US">
 			<Text>Chariot Model</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_9_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_9_NAME" Language="en_US">
 			<Text>Flagon</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_10_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_10_NAME" Language="en_US">
 			<Text>Bronze Bell</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_11_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_11_NAME" Language="en_US">
 			<Text>Pipe</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_12_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_12_NAME" Language="en_US">
 			<Text>Bronze Hand</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_13_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_13_NAME" Language="en_US">
 			<Text>Helmet</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_14_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_14_NAME" Language="en_US">
 			<Text>Roof Tile</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_15_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_15_NAME" Language="en_US">
 			<Text>Relief</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_16_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_16_NAME" Language="en_US">
 			<Text>Engraved Crystal</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_17_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_17_NAME" Language="en_US">
 			<Text>Chess Set</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_18_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_18_NAME" Language="en_US">
 			<Text>Bronze Head</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_19_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_19_NAME" Language="en_US">
 			<Text>Vase</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_20_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_20_NAME" Language="en_US">
 			<Text>Bank Note</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_21_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_21_NAME" Language="en_US">
 			<Text>Dragon Cup</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_22_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_22_NAME" Language="en_US">
 			<Text>Rhinoceros Drawing</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_23_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_23_NAME" Language="en_US">
 			<Text>Mechanical Globe Clock</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_24_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_24_NAME" Language="en_US">
 			<Text>Codex Map</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_25_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_25_NAME" Language="en_US">
 			<Text>Tea Set</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_26_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_26_NAME" Language="en_US">
 			<Text>Ship's Chronometer</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_27_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_27_NAME" Language="en_US">
 			<Text>Amulet</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_28_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_28_NAME" Language="en_US">
 			<Text>Belt Decoration</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_29_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_29_NAME" Language="en_US">
 			<Text>Brazier</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_30_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_30_NAME" Language="en_US">
 			<Text>Ceramic Bowl </Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_31_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_31_NAME" Language="en_US">
 			<Text>Lion Decoration</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_32_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_32_NAME" Language="en_US">
 			<Text>Tapestry</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_33_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_33_NAME" Language="en_US">
 			<Text>Patterned Bricks</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_34_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_34_NAME" Language="en_US">
 			<Text>Pommel</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_35_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_35_NAME" Language="en_US">
 			<Text>Sword and Scabbard</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_36_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_36_NAME" Language="en_US">
 			<Text>Armor</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_37_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_37_NAME" Language="en_US">
 			<Text>Dagger</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_38_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_38_NAME" Language="en_US">
 			<Text>Shield</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_39_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_39_NAME" Language="en_US">
 			<Text>Broad Collar</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_40_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_40_NAME" Language="en_US">
 			<Text>Face Fragment</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_41_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_41_NAME" Language="en_US">
 			<Text>Fluted Bowl</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_42_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_42_NAME" Language="en_US">
 			<Text>Helmet</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_43_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_43_NAME" Language="en_US">
 			<Text>Calligraphic Galleon</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_44_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_44_NAME" Language="en_US">
 			<Text>Guitar</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_45_NAME" Language="en-US">
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_45_NAME" Language="en_US">
 			<Text>Revolver</Text>
 		</Row>
 	</LocalizedText>
