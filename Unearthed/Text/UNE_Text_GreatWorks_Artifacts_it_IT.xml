@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_1_NAME" Language="it_IT">
+			<Text>Punta d'ascia</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_2_NAME" Language="it_IT">
+			<Text>Scultura di mammut</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_3_NAME" Language="it_IT">
+			<Text>Punta di lancia</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_4_NAME" Language="it_IT">
+			<Text>Sigillo</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_5_NAME" Language="it_IT">
+			<Text>Punta d'ascia di giada</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_6_NAME" Language="it_IT">
+			<Text>Mantello d'oro</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_7_NAME" Language="it_IT">
+			<Text>Moneta d'oro</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_8_NAME" Language="it_IT">
+			<Text>Modellino di carro</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_9_NAME" Language="it_IT">
+			<Text>Caraffa</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_10_NAME" Language="it_IT">
+			<Text>Campana di bronzo</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_11_NAME" Language="it_IT">
+			<Text>Pipa</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_12_NAME" Language="it_IT">
+			<Text>Mano di bronzo</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_13_NAME" Language="it_IT">
+			<Text>Elmetto</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_14_NAME" Language="it_IT">
+			<Text>Tegola</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_15_NAME" Language="it_IT">
+			<Text>Sollievo</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_16_NAME" Language="it_IT">
+			<Text>Cristallo incastonato</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_17_NAME" Language="it_IT">
+			<Text>Set da scacchi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_18_NAME" Language="it_IT">
+			<Text>Testa di bronzo</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_19_NAME" Language="it_IT">
+			<Text>Vaso</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_20_NAME" Language="it_IT">
+			<Text>Nota bancaria</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_21_NAME" Language="it_IT">
+			<Text>Ciotola con drago</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_22_NAME" Language="it_IT">
+			<Text>Disegno di rinoceronte</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_23_NAME" Language="it_IT">
+			<Text>Mappamondo meccanico segnatempo</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_24_NAME" Language="it_IT">
+			<Text>Mappa con codice</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_25_NAME" Language="it_IT">
+			<Text>Set da tè</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_26_NAME" Language="it_IT">
+			<Text>Cronometro di una nave</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_27_NAME" Language="it_IT">
+			<Text>Amuleto</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_28_NAME" Language="it_IT">
+			<Text>Decorazione per cintura</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_29_NAME" Language="it_IT">
+			<Text>Braciere</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_30_NAME" Language="it_IT">
+			<Text>Ciotola di ceramica </Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_31_NAME" Language="it_IT">
+			<Text>Leone decorativo</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_32_NAME" Language="it_IT">
+			<Text>Arazzo</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_33_NAME" Language="it_IT">
+			<Text>Mattoni con motivi geometrici</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_34_NAME" Language="it_IT">
+			<Text>Pomo</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_35_NAME" Language="it_IT">
+			<Text>Spada e fodero</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_36_NAME" Language="it_IT">
+			<Text>Armatura</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_37_NAME" Language="it_IT">
+			<Text>Pugnale</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_38_NAME" Language="it_IT">
+			<Text>Scudo</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_39_NAME" Language="it_IT">
+			<Text>Collare largo</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_40_NAME" Language="it_IT">
+			<Text>Frammento di volto</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_41_NAME" Language="it_IT">
+			<Text>Ciotola scanalata</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_42_NAME" Language="it_IT">
+			<Text>Elmetto</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_43_NAME" Language="it_IT">
+			<Text>Galeone calligrafico</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_44_NAME" Language="it_IT">
+			<Text>Chitarra</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_45_NAME" Language="it_IT">
+			<Text>Revolver</Text>
+		</Row>
+	</LocalizedText>
+</GameData>
