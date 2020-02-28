@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_GREATWORK_UNE_RELIC_1_NAME" Language="zh_Hans_CN">
+			<Text>礼器</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_UNE_RELIC_2_NAME" Language="zh_Hans_CN">
+			<Text>石面具</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_UNE_RELIC_3_NAME" Language="zh_Hans_CN">
+			<Text>玛瑙碗</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_UNE_RELIC_4_NAME" Language="zh_Hans_CN">
+			<Text>调味瓶</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_UNE_RELIC_5_NAME" Language="zh_Hans_CN">
+			<Text>铜镜</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_UNE_RELIC_6_NAME" Language="zh_Hans_CN">
+			<Text>埃托瓦盘</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_UNE_RELIC_7_NAME" Language="zh_Hans_CN">
+			<Text>葬礼面具</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_UNE_RELIC_8_NAME" Language="zh_Hans_CN">
+			<Text>圣刺</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_UNE_RELIC_9_NAME" Language="zh_Hans_CN">
+			<Text>圣像</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_UNE_RELIC_10_NAME" Language="zh_Hans_CN">
+			<Text>彩色稿本</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_UNE_RELIC_11_NAME" Language="zh_Hans_CN">
+			<Text>铁王冠</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_UNE_RELIC_12_NAME" Language="zh_Hans_CN">
+			<Text>美洲虎瓶</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_UNE_RELIC_13_NAME" Language="zh_Hans_CN">
+			<Text>修女跪像</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_UNE_RELIC_14_NAME" Language="zh_Hans_CN">
+			<Text>曼荼罗</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_UNE_RELIC_15_NAME" Language="zh_Hans_CN">
+			<Text>大地女神</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_UNE_RELIC_16_NAME" Language="zh_Hans_CN">
+			<Text>南特斯杯</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_UNE_RELIC_17_NAME" Language="zh_Hans_CN">
+			<Text>领主像</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_UNE_RELIC_18_NAME" Language="zh_Hans_CN">
+			<Text>供品碗</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_UNE_RELIC_19_NAME" Language="zh_Hans_CN">
+			<Text>锥形神石</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_UNE_RELIC_20_NAME" Language="zh_Hans_CN">
+			<Text>如意</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_UNE_RELIC_21_NAME" Language="zh_Hans_CN">
+			<Text>神圣卷轴</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_UNE_RELIC_22_NAME" Language="zh_Hans_CN">
+			<Text>皇帝之剑</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_UNE_RELIC_23_NAME" Language="zh_Hans_CN">
+			<Text>墓俑</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_UNE_RELIC_24_NAME" Language="zh_Hans_CN">
+			<Text>生命之树执壶</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_UNE_RELIC_25_NAME" Language="zh_Hans_CN">
+			<Text>图米</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_UNE_RELIC_26_NAME" Language="zh_Hans_CN">
+			<Text>沃卡面具</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_UNE_RELIC_27_NAME" Language="zh_Hans_CN">
+			<Text>战士面具</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
