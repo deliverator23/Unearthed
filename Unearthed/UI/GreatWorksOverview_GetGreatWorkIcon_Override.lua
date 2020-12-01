@@ -1,5 +1,12 @@
 include("GreatWorksOverview.lua");
 
+-- ===========================================================================
+-- CACHE BASE FUNCTIONS
+-- ===========================================================================
+local BASE_GetGreatWorkIcon = GetGreatWorkIcon;
+
+local SIZE_GREAT_WORK_ICON:number = 64;
+
 function GetGreatWorkIcon(greatWorkInfo:table)
 
 	-- Unearthed - start
