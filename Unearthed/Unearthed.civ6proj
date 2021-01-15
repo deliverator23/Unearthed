@@ -2,12 +2,12 @@
 <Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
-    <Name>Unearthed</Name>
+    <Name>[COLOR_FLOAT_GOLD]Unearthed[ENDCOLOR]</Name>
     <Guid>35a85dfb-d33a-4382-be10-a5f53c1baad1</Guid>
     <ProjectGuid>351689ba-42ab-47ee-89b8-c313a0d1c287</ProjectGuid>
     <ModVersion>1</ModVersion>
-    <Teaser>Unearthed</Teaser>
-    <Description>Unearthed</Description>
+    <Teaser>Adds 45 new Artifacts and 27 new Relics.</Teaser>
+    <Description>Adds 45 new Artifacts and 27 new Relics.</Description>
     <Authors>Deliverator</Authors>
     <SpecialThanks>
     </SpecialThanks>
