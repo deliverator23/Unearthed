@@ -1,13 +1,8 @@
---include("GreatWorksOverview.lua");
-
--- ===========================================================================
--- CACHE BASE FUNCTIONS
--- ===========================================================================
-local BASE_GetGreatWorkIcon = GetGreatWorkIcon;
-
 local SIZE_GREAT_WORK_ICON:number = 64;
 
 function GetGreatWorkIcon(greatWorkInfo:table)
+
+	print("GreatWorksOverview_GetGreatWorkIcon_Override - GetGreatWorkIcon");
 
 	-- Unearthed - start
     local greatWorkIcon  = "ICON_" .. greatWorkInfo.GreatWorkType;

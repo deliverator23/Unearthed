@@ -1,10 +1,3 @@
--- ===========================================================================--	ReligionScreen
---	View list of slots representing districts that can house great works.
---
---	Original Authors: Sam Batista
--- ===========================================================================
-include("InstanceManager");
-
 -- ===========================================================================
 --	CONSTANTS
 -- ===========================================================================
@@ -44,6 +37,7 @@ local m_isGallery:boolean = false;
 local m_LocalPlayer:table;
 local m_LocalPlayerID:number;
 
+
 -- ===========================================================================
 --	Called every time screen is shown
 -- ===========================================================================
@@ -53,6 +47,7 @@ function UpdatePlayerData()
 		m_LocalPlayer = Players[m_LocalPlayerID];
 	end
 end
+
 
 -- ===========================================================================
 --	Called when viewing the Great Works Gallery
@@ -91,10 +86,13 @@ function UpdateGalleryData()
 	Controls.NextGreatWork:SetHide(not canCycleGreatWorks);
 end
 
+
 -- ===========================================================================
 --	Called every time screen is shown
 -- ===========================================================================
 function UpdateGreatWork()
+
+	--print("GreatWorkShowcase_UpdateGreatWork_Override - UpdateGreatWork");
 
 	Controls.MusicDetails:SetHide(true);
 	Controls.WritingDetails:SetHide(true);
@@ -102,6 +100,11 @@ function UpdateGreatWork()
 	Controls.GalleryBG:SetHide(true);
 
 	local greatWorkInfo:table = GameInfo.GreatWorks[m_GreatWorkType];
+
+	--if greatWorkInfo == nil then
+	--   print("greatWorkInfo == nil");
+	--end
+
 	local greatWorkType:string = greatWorkInfo.GreatWorkType;
 	local greatWorkCreator:string = Locale.Lookup(m_CityBldgs:GetCreatorNameFromIndex(m_GreatWorkIndex));
 	local greatWorkCreationDate:string = Calendar.MakeDateStr(m_CityBldgs:GetTurnFromIndex(m_GreatWorkIndex), GameConfiguration.GetCalendarType(), GameConfiguration.GetGameSpeedType(), false);
@@ -197,13 +200,6 @@ function UpdateGreatWork()
 	Controls.DetailsContainer:SetOffsetY(detailsOffset + heightAdjustment);
 end
 
--- ===========================================================================
---	To be overridden in DLCs and mods
--- ===========================================================================
-function HandleCustomGreatWorkTypes( greatWorkType:string )
-	-- Return false to have GreatWorkShowcase use generic behavior
-	return false;
-end
 
 -- ===========================================================================
 --	Update player data and refresh the display state
@@ -216,49 +212,7 @@ function UpdateData()
 	UpdateGreatWork();
 end
 
--- ===========================================================================
---	Show / Hide
--- ===========================================================================
-function ShowScreen()
-	UpdateData();
-	ContextPtr:SetHide(false);
-end
-function HideScreen()
-	ContextPtr:SetHide(true);
-	UI.PlaySound("Stop_Great_Music");
-	UI.PlaySound("Stop_Speech_GreatWriting");
-    UI.PlaySound("Stop_Great_Works_Gallery_Ambience");
-end
 
--- ===========================================================================
---	Game Event Callbacks
--- ===========================================================================
-function OnShowScreen()
-	ShowScreen();
-end
-function OnHideScreen()
-	HideScreen();
-end
-function OnViewGreatWorks()
-	HideScreen();
-	LuaEvents.GreatWorkCreated_OpenGreatWorksOverview();
-end
-function OnInputHandler(pInputStruct:table)
-	local uiMsg = pInputStruct:GetMessageType();
-	if uiMsg == KeyEvents.KeyUp and pInputStruct:GetKey() == Keys.VK_ESCAPE then
-		HideScreen();
-		return true;
-	end
-	return false;
-end
-function OnGreatWorkCreated(playerID:number, creatorID:number, cityX:number, cityY:number, buildingID:number, greatWorkIndex:number)
-	-- Ignore relics when responding to the GreatWorkCreated event.  Relics have a dedicated notification that will trigger this screen
-	-- Thru NotificationPanel_ShowRelicCreated
-	DisplayGreatWorkCreated(playerID, creatorID, cityX, cityY, buildingID, greatWorkIndex, false);
-end
-function OnShowRelicCreated(playerID:number, creatorID:number, cityX:number, cityY:number, buildingID:number, greatWorkIndex:number)
-	DisplayGreatWorkCreated(playerID, creatorID, cityX, cityY, buildingID, greatWorkIndex, true);
-end
 function DisplayGreatWorkCreated(playerID:number, creatorID:number, cityX:number, cityY:number, buildingID:number, greatWorkIndex:number, showRelics:boolean)
 	if playerID ~= Game.GetLocalPlayer() then
 		return;
@@ -279,6 +233,8 @@ function DisplayGreatWorkCreated(playerID:number, creatorID:number, cityX:number
 		ShowScreen();
 	end
 end
+
+
 function OnViewGreatWork(city:table, buildingID:number, greatWorkIndex:number)
 
 	m_isGallery = true;
@@ -291,10 +247,12 @@ function OnViewGreatWork(city:table, buildingID:number, greatWorkIndex:number)
 		ShowScreen();
 	end
 end
+
+
 function OnPreviousGreatWork()
 	local numGreatWorks:number = table.count(m_GreatWorks);
 	if numGreatWorks > 1 then
-
+        
 		UI.PlaySound("Stop_Great_Music");
 		UI.PlaySound("Stop_Speech_GreatWriting");
         UI.PlaySound("UI_Click_Sweetener_Metal_Button_Small");
@@ -307,6 +265,8 @@ function OnPreviousGreatWork()
 		OnViewGreatWork(greatWorkData.City, greatWorkData.Building, greatWorkData.Index);
 	end
 end
+
+
 function OnNextGreatWork()
 	local numGreatWorks:number = table.count(m_GreatWorks);
 	if numGreatWorks > 1 then
@@ -325,14 +285,7 @@ function OnNextGreatWork()
 	end
 end
 
--- ===========================================================================
---	Hot Reload Related Events
--- ===========================================================================
-function OnInit(isReload:boolean)
-	if isReload then
-		LuaEvents.GameDebug_GetValues(RELOAD_CACHE_ID);
-	end
-end
+
 function OnShutdown()
 	LuaEvents.GameDebug_AddValue(RELOAD_CACHE_ID, "isHidden", ContextPtr:IsHidden());
 	LuaEvents.GameDebug_AddValue(RELOAD_CACHE_ID, "isGallery", m_isGallery);
@@ -342,15 +295,7 @@ function OnShutdown()
 	LuaEvents.GameDebug_AddValue(RELOAD_CACHE_ID, "buildingID", m_BuildingID);
 	LuaEvents.GameDebug_AddValue(RELOAD_CACHE_ID, "greatWorkIndex", m_GreatWorkIndex);
 end
-function OnGameDebugReturn(context:string, data:table)
-	if context == RELOAD_CACHE_ID and data["isHidden"] ~= nil and not data["isHidden"] then
-		if data["isGallery"] then
-			OnViewGreatWork(Cities.GetCityInPlot(Map.GetPlotIndex(data["cityX"], data["cityY"])), data["buildingID"], data["greatWorkIndex"]);
-		else
-			OnGreatWorkCreated(data["playerID"], nil, data["cityX"], data["cityY"], data["buildingID"], data["greatWorkIndex"]);
-		end
-	end
-end
+
 
 -- ===========================================================================
 --	Hot-seat functionality
@@ -364,39 +309,3 @@ function OnLocalPlayerTurnEnd()
 		Controls.NextGreatWork:SetHide(true);
 	end
 end
-
--- ===========================================================================
---	INIT
--- ===========================================================================
-function Initialize()
-
-	ContextPtr:SetInitHandler(OnInit);
-	ContextPtr:SetShutdown(OnShutdown);
-	ContextPtr:SetInputHandler(OnInputHandler, true);
-
-	Events.GreatWorkCreated.Add(OnGreatWorkCreated);
-	Events.LocalPlayerTurnEnd.Add(OnLocalPlayerTurnEnd);
-	LuaEvents.GameDebug_Return.Add(OnGameDebugReturn);
-	LuaEvents.LaunchBar_OpenGreatWorksShowcase(OnShowScreen);
-	LuaEvents.GreatWorksOverview_ViewGreatWork.Add(OnViewGreatWork);
-	LuaEvents.NotificationPanel_ShowRelicCreated.Add(OnShowRelicCreated);
-
-	Controls.ModalBG:SetTexture("GreatWorks_Background");
-	Controls.ModalScreenClose:RegisterCallback(Mouse.eLClick, OnHideScreen);
-	Controls.ModalScreenClose:RegisterCallback( Mouse.eMouseEnter, function() UI.PlaySound("Main_Menu_Mouse_Over"); end);
-	Controls.ModalScreenClose:ChangeParent(Controls.BannerBG);
-	Controls.ModalScreenClose:SetAnchor("R,T");
-	Controls.ModalScreenClose:SetOffsetX(-5);
-
-	Controls.NextGreatWork:RegisterCallback(Mouse.eLClick, OnNextGreatWork);
-	Controls.PreviousGreatWork:RegisterCallback(Mouse.eLClick, OnPreviousGreatWork);
-	Controls.ViewGreatWorks:RegisterCallback(Mouse.eLClick, OnViewGreatWorks);
-	Controls.ViewGreatWorks:RegisterCallback( Mouse.eMouseEnter, function() UI.PlaySound("Main_Menu_Mouse_Over"); end);
-end
-
--- This wildcard include will include all loaded files beginning with "GreatWorkShowcase_"
--- This method replaces the uses of include("GreatWorkShowcase") in files that want to override 
--- functions from this file. If you're implementing a new "GreatWorkShowcase" file DO NOT include this file.
-include("GreatWorkShowcase_", true);
-
-Initialize();
