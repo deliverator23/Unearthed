@@ -28,6 +28,12 @@
 		<Row Type="GREATWORK_UNE_RELIC_25" Kind="KIND_GREATWORK"/>
 		<Row Type="GREATWORK_UNE_RELIC_26" Kind="KIND_GREATWORK"/>
 		<Row Type="GREATWORK_UNE_RELIC_27" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_28" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_29" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_30" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_31" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_32" Kind="KIND_GREATWORK"/>
+		<Row Type="GREATWORK_UNE_RELIC_33" Kind="KIND_GREATWORK"/>
 	</Types>
 	<GreatWorks>
 		<Row GreatWorkType="GREATWORK_UNE_RELIC_1" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_1_NAME" Tourism="8" EraType=""/>
@@ -57,6 +63,12 @@
 		<Row GreatWorkType="GREATWORK_UNE_RELIC_25" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_25_NAME" Tourism="8" EraType=""/>
 		<Row GreatWorkType="GREATWORK_UNE_RELIC_26" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_26_NAME" Tourism="8" EraType=""/>
 		<Row GreatWorkType="GREATWORK_UNE_RELIC_27" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_27_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_28" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_28_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_29" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_29_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_30" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_30_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_31" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_31_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_32" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_32_NAME" Tourism="8" EraType=""/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_33" GreatWorkObjectType="GREATWORKOBJECT_RELIC" Name="LOC_GREATWORK_UNE_RELIC_33_NAME" Tourism="8" EraType=""/>
 	</GreatWorks>
 	<GreatWork_YieldChanges>
 		<Row GreatWorkType="GREATWORK_UNE_RELIC_1" YieldType="YIELD_FAITH" YieldChange="4"/>
@@ -86,5 +98,11 @@
 		<Row GreatWorkType="GREATWORK_UNE_RELIC_25" YieldType="YIELD_FAITH" YieldChange="4"/>
 		<Row GreatWorkType="GREATWORK_UNE_RELIC_26" YieldType="YIELD_FAITH" YieldChange="4"/>
 		<Row GreatWorkType="GREATWORK_UNE_RELIC_27" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_28" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_29" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_30" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_31" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_32" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row GreatWorkType="GREATWORK_UNE_RELIC_33" YieldType="YIELD_FAITH" YieldChange="4"/>
 	</GreatWork_YieldChanges>
 </GameInfo>

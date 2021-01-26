@@ -136,5 +136,26 @@
 		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_45_NAME" Language="en_US">
 			<Text>Revolver</Text>
 		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_46_NAME" Language="en_US">
+			<Text>Canoe</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_47_NAME" Language="en_US">
+			<Text>Bone Flute</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_48_NAME" Language="en_US">
+			<Text>Gold Earing</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_49_NAME" Language="en_US">
+			<Text>Paint Making Bowl</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_50_NAME" Language="en_US">
+			<Text>Carved Pillar</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_51_NAME" Language="en_US">
+			<Text>Chopping Tool</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_ARTIFACT_52_NAME" Language="en_US">
+			<Text>Stone Tool</Text>
+		</Row>
 	</LocalizedText>
 </GameData>

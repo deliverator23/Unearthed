@@ -82,5 +82,23 @@
 		<Row Tag="LOC_GREATWORK_UNE_RELIC_27_NAME" Language="en_US">
 			<Text>Warrior Pot</Text>
 		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_28_NAME" Language="en_US">
+			<Text>River Blade</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_29_NAME" Language="en_US">
+			<Text>Animal Standard</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_30_NAME" Language="en_US">
+			<Text>Meteoric Dagger</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_31_NAME" Language="en_US">
+			<Text>Olifant</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_32_NAME" Language="en_US">
+			<Text>Ossuary</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_UNE_RELIC_33_NAME" Language="en_US">
+			<Text>Fertility Figurine</Text>
+		</Row>
 	</LocalizedText>
 </GameData>
