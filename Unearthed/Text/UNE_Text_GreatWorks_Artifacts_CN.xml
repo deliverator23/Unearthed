@@ -1,140 +1,200 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<LocalizedText>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_1_NAME" Language="zh_Hans_CN">
-			<Text>手斧</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_2_NAME" Language="zh_Hans_CN">
-			<Text>猛犸雕刻</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_3_NAME" Language="zh_Hans_CN">
-			<Text>矛尖</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_4_NAME" Language="zh_Hans_CN">
-			<Text>印章</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_5_NAME" Language="zh_Hans_CN">
-			<Text>玉钺</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_6_NAME" Language="zh_Hans_CN">
-			<Text>金斗篷</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_7_NAME" Language="zh_Hans_CN">
-			<Text>金币</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_8_NAME" Language="zh_Hans_CN">
-			<Text>战车模型</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_9_NAME" Language="zh_Hans_CN">
-			<Text>酒壶</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_10_NAME" Language="zh_Hans_CN">
-			<Text>铜铃</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_11_NAME" Language="zh_Hans_CN">
-			<Text>吹笛</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_12_NAME" Language="zh_Hans_CN">
-			<Text>铜手</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_13_NAME" Language="zh_Hans_CN">
-			<Text>铁头盔</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_14_NAME" Language="zh_Hans_CN">
-			<Text>屋瓦</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_15_NAME" Language="zh_Hans_CN">
-			<Text>救赎者壁画</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_16_NAME" Language="zh_Hans_CN">
-			<Text>雕刻水晶</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_17_NAME" Language="zh_Hans_CN">
-			<Text>棋子</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_18_NAME" Language="zh_Hans_CN">
-			<Text>铜首</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_19_NAME" Language="zh_Hans_CN">
-			<Text>花瓶</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_20_NAME" Language="zh_Hans_CN">
-			<Text>纸币</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_21_NAME" Language="zh_Hans_CN">
-			<Text>龙杯</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_22_NAME" Language="zh_Hans_CN">
-			<Text>犀牛画</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_23_NAME" Language="zh_Hans_CN">
-			<Text>机械地球仪时钟</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_24_NAME" Language="zh_Hans_CN">
-			<Text>手抄本地图</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_25_NAME" Language="zh_Hans_CN">
-			<Text>茶具</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_26_NAME" Language="zh_Hans_CN">
-			<Text>船舶天文钟</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_27_NAME" Language="zh_Hans_CN">
-			<Text>护身符</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_28_NAME" Language="zh_Hans_CN">
-			<Text>带饰</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_29_NAME" Language="zh_Hans_CN">
-			<Text>火盆</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_30_NAME" Language="zh_Hans_CN">
-			<Text>陶瓷碗</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_31_NAME" Language="zh_Hans_CN">
-			<Text>狮头装饰</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_32_NAME" Language="zh_Hans_CN">
-			<Text>挂毯</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_33_NAME" Language="zh_Hans_CN">
-			<Text>绘图砖</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_34_NAME" Language="zh_Hans_CN">
-			<Text>剑柄圆头</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_35_NAME" Language="zh_Hans_CN">
-			<Text>剑与剑鞘</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_36_NAME" Language="zh_Hans_CN">
-			<Text>盔甲</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_37_NAME" Language="zh_Hans_CN">
-			<Text>匕首</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_38_NAME" Language="zh_Hans_CN">
-			<Text>盾牌</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_39_NAME" Language="zh_Hans_CN">
-			<Text>宽领</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_40_NAME" Language="zh_Hans_CN">
-			<Text>头塑碎片</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_41_NAME" Language="zh_Hans_CN">
-			<Text>槽纹碗</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_42_NAME" Language="zh_Hans_CN">
-			<Text>铜头盔</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_43_NAME" Language="zh_Hans_CN">
-			<Text>帆船绘画</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_44_NAME" Language="zh_Hans_CN">
-			<Text>吉他</Text>
-		</Replace>
-		<Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_45_NAME" Language="zh_Hans_CN">
-			<Text>左轮手枪</Text>
-		</Replace>
-	</LocalizedText>
+    <LocalizedText>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_1_NAME" Language="zh_Hans_CN">
+            <Text>手斧</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_2_NAME" Language="zh_Hans_CN">
+            <Text>猛犸雕刻</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_3_NAME" Language="zh_Hans_CN">
+            <Text>矛尖</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_4_NAME" Language="zh_Hans_CN">
+            <Text>印章</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_5_NAME" Language="zh_Hans_CN">
+            <Text>玉钺</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_6_NAME" Language="zh_Hans_CN">
+            <Text>金斗篷</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_7_NAME" Language="zh_Hans_CN">
+            <Text>金币</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_8_NAME" Language="zh_Hans_CN">
+            <Text>战车模型</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_9_NAME" Language="zh_Hans_CN">
+            <Text>酒壶</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_10_NAME" Language="zh_Hans_CN">
+            <Text>铜铃</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_11_NAME" Language="zh_Hans_CN">
+            <Text>吹笛</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_12_NAME" Language="zh_Hans_CN">
+            <Text>铜手</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_13_NAME" Language="zh_Hans_CN">
+            <Text>铁头盔</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_14_NAME" Language="zh_Hans_CN">
+            <Text>屋瓦</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_15_NAME" Language="zh_Hans_CN">
+            <Text>救赎者壁画</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_16_NAME" Language="zh_Hans_CN">
+            <Text>雕刻水晶</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_17_NAME" Language="zh_Hans_CN">
+            <Text>棋子</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_18_NAME" Language="zh_Hans_CN">
+            <Text>铜首</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_19_NAME" Language="zh_Hans_CN">
+            <Text>花瓶</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_20_NAME" Language="zh_Hans_CN">
+            <Text>纸币</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_21_NAME" Language="zh_Hans_CN">
+            <Text>龙杯</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_22_NAME" Language="zh_Hans_CN">
+            <Text>犀牛画</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_23_NAME" Language="zh_Hans_CN">
+            <Text>机械地球仪时钟</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_24_NAME" Language="zh_Hans_CN">
+            <Text>手抄本地图</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_25_NAME" Language="zh_Hans_CN">
+            <Text>茶具</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_26_NAME" Language="zh_Hans_CN">
+            <Text>船舶天文钟</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_27_NAME" Language="zh_Hans_CN">
+            <Text>护身符</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_28_NAME" Language="zh_Hans_CN">
+            <Text>带饰</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_29_NAME" Language="zh_Hans_CN">
+            <Text>火盆</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_30_NAME" Language="zh_Hans_CN">
+            <Text>陶瓷碗</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_31_NAME" Language="zh_Hans_CN">
+            <Text>狮头装饰</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_32_NAME" Language="zh_Hans_CN">
+            <Text>挂毯</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_33_NAME" Language="zh_Hans_CN">
+            <Text>绘图砖</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_34_NAME" Language="zh_Hans_CN">
+            <Text>剑柄圆头</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_35_NAME" Language="zh_Hans_CN">
+            <Text>剑与剑鞘</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_36_NAME" Language="zh_Hans_CN">
+            <Text>盔甲</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_37_NAME" Language="zh_Hans_CN">
+            <Text>匕首</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_38_NAME" Language="zh_Hans_CN">
+            <Text>盾牌</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_39_NAME" Language="zh_Hans_CN">
+            <Text>宽领</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_40_NAME" Language="zh_Hans_CN">
+            <Text>头塑碎片</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_41_NAME" Language="zh_Hans_CN">
+            <Text>槽纹碗</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_42_NAME" Language="zh_Hans_CN">
+            <Text>铜头盔</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_43_NAME" Language="zh_Hans_CN">
+            <Text>帆船绘画</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_44_NAME" Language="zh_Hans_CN">
+            <Text>吉他</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_45_NAME" Language="zh_Hans_CN">
+            <Text>左轮手枪</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_46_NAME" Language="zh_Hans_CN">
+            <Text>Canoe</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_47_NAME" Language="zh_Hans_CN">
+            <Text>Bone Flute</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_48_NAME" Language="zh_Hans_CN">
+            <Text>Gold Earing</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_49_NAME" Language="zh_Hans_CN">
+            <Text>Paint Making Bowl</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_50_NAME" Language="zh_Hans_CN">
+            <Text>Carved Pillar</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_51_NAME" Language="zh_Hans_CN">
+            <Text>Chopping Tool</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_52_NAME" Language="zh_Hans_CN">
+            <Text>Stone Tool</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_53_NAME" Language="zh_Hans_CN">
+            <Text>Gramophone</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_54_NAME" Language="zh_Hans_CN">
+            <Text>Aquamanile</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_55_NAME" Language="zh_Hans_CN">
+            <Text>Comb Morion</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_56_NAME" Language="zh_Hans_CN">
+            <Text>Pottery Sherds</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_57_NAME" Language="zh_Hans_CN">
+            <Text>Terracotta Sculpture</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_58_NAME" Language="zh_Hans_CN">
+            <Text>Violin</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_59_NAME" Language="zh_Hans_CN">
+            <Text>Canoe</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_60_NAME" Language="zh_Hans_CN">
+            <Text>Earthenware Vase</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_61_NAME" Language="zh_Hans_CN">
+            <Text>Typewriter</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_62_NAME" Language="zh_Hans_CN">
+            <Text>Decorated Shield</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_62_NAME" Language="zh_Hans_CN">
+            <Text>Gauntlets</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_63_NAME" Language="zh_Hans_CN">
+            <Text>Ornamental Lamp</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_64_NAME" Language="zh_Hans_CN">
+            <Text>Lithograph</Text>
+        </Replace>
+    </LocalizedText>
 </GameData>

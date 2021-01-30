@@ -1,86 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<LocalizedText>
-		<Row Tag="LOC_GREATWORK_UNE_RELIC_1_NAME" Language="it_IT">
-			<Text>Vaso per rituali</Text>
-		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_RELIC_2_NAME" Language="it_IT">
-			<Text>Maschera di pietra</Text>
-		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_RELIC_3_NAME" Language="it_IT">
-			<Text>Ciotola di Agata</Text>
-		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_RELIC_4_NAME" Language="it_IT">
-			<Text>Ampolla da altare</Text>
-		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_RELIC_5_NAME" Language="it_IT">
-			<Text>Specchio di bronzo</Text>
-		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_RELIC_6_NAME" Language="it_IT">
-			<Text>Piatti Etowah</Text>
-		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_RELIC_7_NAME" Language="it_IT">
-			<Text>Maschera funebre</Text>
-		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_RELIC_8_NAME" Language="it_IT">
-			<Text>Sacra Spina</Text>
-		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_RELIC_9_NAME" Language="it_IT">
-			<Text>Icona</Text>
-		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_RELIC_10_NAME" Language="it_IT">
-			<Text>Manoscritto illuminato</Text>
-		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_RELIC_11_NAME" Language="it_IT">
-			<Text>Corona di ferro</Text>
-		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_RELIC_12_NAME" Language="it_IT">
-			<Text>Bottiglia con giaguaro</Text>
-		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_RELIC_13_NAME" Language="it_IT">
-			<Text>Madre in ginocchio</Text>
-		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_RELIC_14_NAME" Language="it_IT">
-			<Text>Mandala</Text>
-		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_RELIC_15_NAME" Language="it_IT">
-			<Text>Dea Madre</Text>
-		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_RELIC_16_NAME" Language="it_IT">
-			<Text>Tazza Nantenos</Text>
-		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_RELIC_17_NAME" Language="it_IT">
-			<Text>Nkosi</Text>
-		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_RELIC_18_NAME" Language="it_IT">
-			<Text>Ciotola per le offerte</Text>
-		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_RELIC_19_NAME" Language="it_IT">
-			<Text>Omphalos</Text>
-		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_RELIC_20_NAME" Language="it_IT">
-			<Text>Ruyi</Text>
-		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_RELIC_21_NAME" Language="it_IT">
-			<Text>Pergamena sacra</Text>
-		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_RELIC_22_NAME" Language="it_IT">
-			<Text>Spada dell'imperatore</Text>
-		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_RELIC_23_NAME" Language="it_IT">
-			<Text>Figura tombale</Text>
-		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_RELIC_24_NAME" Language="it_IT">
-			<Text>Albero della vita Ewer</Text>
-		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_RELIC_25_NAME" Language="it_IT">
-			<Text>Tumi</Text>
-		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_RELIC_26_NAME" Language="it_IT">
-			<Text>Maschera Warka</Text>
-		</Row>
-		<Row Tag="LOC_GREATWORK_UNE_RELIC_27_NAME" Language="it_IT">
-			<Text>Soldato di ceramica</Text>
-		</Row>
-	</LocalizedText>
+    <LocalizedText>
+        <Row Tag="LOC_GREATWORK_UNE_RELIC_1_NAME" Language="it_IT">
+            <Text>Vaso per rituali</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_RELIC_2_NAME" Language="it_IT">
+            <Text>Maschera di pietra</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_RELIC_3_NAME" Language="it_IT">
+            <Text>Ciotola di Agata</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_RELIC_4_NAME" Language="it_IT">
+            <Text>Ampolla da altare</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_RELIC_5_NAME" Language="it_IT">
+            <Text>Specchio di bronzo</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_RELIC_6_NAME" Language="it_IT">
+            <Text>Piatti Etowah</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_RELIC_7_NAME" Language="it_IT">
+            <Text>Maschera funebre</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_RELIC_8_NAME" Language="it_IT">
+            <Text>Sacra Spina</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_RELIC_9_NAME" Language="it_IT">
+            <Text>Icona</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_RELIC_10_NAME" Language="it_IT">
+            <Text>Manoscritto illuminato</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_RELIC_11_NAME" Language="it_IT">
+            <Text>Corona di ferro</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_RELIC_12_NAME" Language="it_IT">
+            <Text>Bottiglia con giaguaro</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_RELIC_13_NAME" Language="it_IT">
+            <Text>Madre in ginocchio</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_RELIC_14_NAME" Language="it_IT">
+            <Text>Mandala</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_RELIC_15_NAME" Language="it_IT">
+            <Text>Dea Madre</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_RELIC_16_NAME" Language="it_IT">
+            <Text>Tazza Nantenos</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_RELIC_17_NAME" Language="it_IT">
+            <Text>Nkosi</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_RELIC_18_NAME" Language="it_IT">
+            <Text>Ciotola per le offerte</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_RELIC_19_NAME" Language="it_IT">
+            <Text>Omphalos</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_RELIC_20_NAME" Language="it_IT">
+            <Text>Ruyi</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_RELIC_21_NAME" Language="it_IT">
+            <Text>Pergamena sacra</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_RELIC_22_NAME" Language="it_IT">
+            <Text>Spada dell'imperatore</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_RELIC_23_NAME" Language="it_IT">
+            <Text>Figura tombale</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_RELIC_24_NAME" Language="it_IT">
+            <Text>Albero della vita Ewer</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_RELIC_25_NAME" Language="it_IT">
+            <Text>Tumi</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_RELIC_26_NAME" Language="it_IT">
+            <Text>Maschera Warka</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_RELIC_27_NAME" Language="it_IT">
+            <Text>Soldato di ceramica</Text>
+        </Row>
+        <Replace Tag="LOC_GREATWORK_UNE_RELIC_28_NAME" Language="it_IT">
+            <Text>River Blade</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_RELIC_29_NAME" Language="it_IT">
+            <Text>Animal Standard</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_RELIC_30_NAME" Language="it_IT">
+            <Text>Meteoric Dagger</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_RELIC_31_NAME" Language="it_IT">
+            <Text>Olifant</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_RELIC_32_NAME" Language="it_IT">
+            <Text>Ossuary</Text>
+        </Replace>
+        <Replace Tag="LOC_GREATWORK_UNE_RELIC_33_NAME" Language="it_IT">
+            <Text>Fertility Figurine</Text>
+        </Replace>
+    </LocalizedText>
 </GameData>
