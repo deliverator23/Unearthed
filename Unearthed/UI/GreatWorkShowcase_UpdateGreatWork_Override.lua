@@ -132,6 +132,7 @@ function UpdateGreatWork()
 		Controls.MusicName:SetText(Locale.ToUpper(Locale.Lookup(greatWorkInfo.Name)));
 		Controls.MusicAuthor:SetText("-" .. greatWorkCreator);
 		Controls.MusicDetails:SetHide(false);
+		Controls.CreatedBy:SetText(Locale.Lookup("LOC_GREAT_WORKS_CREATED_BY", greatWorkCreator));
 	elseif greatWorkObjectType == GREAT_WORK_WRITING_TYPE then
 		detailsOffset = DETAILS_OFFSET_WRITING;
 		Controls.GreatWorkImage:SetOffsetY(0);
@@ -155,6 +156,7 @@ function UpdateGreatWork()
 			Controls.WritingDeco:SetOffsetY(Controls.WritingName:GetSizeY() + -20);
 		end
 		Controls.WritingDetails:SetHide(false);
+		Controls.CreatedBy:SetText(Locale.Lookup("LOC_GREAT_WORKS_CREATED_BY", greatWorkCreator));
     else
 		-- Allow DLCs and mods to handle custom great work types instead of forcing standard behavior
 		if not HandleCustomGreatWorkTypes(greatWorkType) then
@@ -176,6 +178,7 @@ function UpdateGreatWork()
 			local bannerSize:number = math.max(nameSize, SIZE_BANNER_MIN);
 			Controls.GreatWorkBanner:SetSizeX(bannerSize);
 			Controls.GreatWorkBanner:SetHide(false);
+			Controls.CreatedBy:SetText(Locale.Lookup("LOC_GREAT_WORKS_CREATED_BY", greatWorkCreator));
 
 			local imageHeight:number = Controls.GreatWorkImage:GetSizeY();
 			if imageHeight > SIZE_MAX_IMAGE_HEIGHT then
