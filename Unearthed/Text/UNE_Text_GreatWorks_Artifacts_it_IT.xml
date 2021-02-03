@@ -136,65 +136,62 @@
         <Row Tag="LOC_GREATWORK_UNE_ARTIFACT_45_NAME" Language="it_IT">
             <Text>Revolver</Text>
         </Row>
-        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_46_NAME" Language="it_IT">
+        <Row Tag="LOC_GREATWORK_UNE_ARTIFACT_46_NAME" Language="it_IT">
             <Text>Canoe</Text>
-        </Replace>
-        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_47_NAME" Language="it_IT">
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_ARTIFACT_47_NAME" Language="it_IT">
             <Text>Bone Flute</Text>
-        </Replace>
-        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_48_NAME" Language="it_IT">
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_ARTIFACT_48_NAME" Language="it_IT">
             <Text>Gold Earing</Text>
-        </Replace>
-        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_49_NAME" Language="it_IT">
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_ARTIFACT_49_NAME" Language="it_IT">
             <Text>Paint Making Bowl</Text>
-        </Replace>
-        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_50_NAME" Language="it_IT">
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_ARTIFACT_50_NAME" Language="it_IT">
             <Text>Carved Pillar</Text>
-        </Replace>
-        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_51_NAME" Language="it_IT">
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_ARTIFACT_51_NAME" Language="it_IT">
             <Text>Chopping Tool</Text>
-        </Replace>
-        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_52_NAME" Language="it_IT">
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_ARTIFACT_52_NAME" Language="it_IT">
             <Text>Stone Tool</Text>
-        </Replace>
-        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_53_NAME" Language="it_IT">
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_ARTIFACT_53_NAME" Language="it_IT">
             <Text>Gramophone</Text>
-        </Replace>
-        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_54_NAME" Language="it_IT">
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_ARTIFACT_54_NAME" Language="it_IT">
             <Text>Aquamanile</Text>
-        </Replace>
-        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_55_NAME" Language="it_IT">
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_ARTIFACT_55_NAME" Language="it_IT">
             <Text>Comb Morion</Text>
-        </Replace>
-        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_56_NAME" Language="it_IT">
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_ARTIFACT_56_NAME" Language="it_IT">
             <Text>Pottery Sherds</Text>
-        </Replace>
-        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_57_NAME" Language="it_IT">
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_ARTIFACT_57_NAME" Language="it_IT">
             <Text>Terracotta Sculpture</Text>
-        </Replace>
-        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_58_NAME" Language="it_IT">
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_ARTIFACT_58_NAME" Language="it_IT">
             <Text>Violin</Text>
-        </Replace>
-        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_59_NAME" Language="it_IT">
-            <Text>Canoe</Text>
-        </Replace>
-        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_60_NAME" Language="it_IT">
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_ARTIFACT_59_NAME" Language="it_IT">
             <Text>Earthenware Vase</Text>
-        </Replace>
-        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_61_NAME" Language="it_IT">
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_ARTIFACT_60_NAME" Language="it_IT">
             <Text>Typewriter</Text>
-        </Replace>
-        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_62_NAME" Language="it_IT">
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_ARTIFACT_61_NAME" Language="it_IT">
             <Text>Decorated Shield</Text>
-        </Replace>
-        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_62_NAME" Language="it_IT">
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_ARTIFACT_62_NAME" Language="it_IT">
             <Text>Gauntlets</Text>
-        </Replace>
-        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_63_NAME" Language="it_IT">
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_ARTIFACT_63_NAME" Language="it_IT">
             <Text>Ornamental Lamp</Text>
-        </Replace>
-        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_64_NAME" Language="it_IT">
+        </Row>
+        <Row Tag="LOC_GREATWORK_UNE_ARTIFACT_64_NAME" Language="it_IT">
             <Text>Lithograph</Text>
-        </Replace>
+        </Row>
     </LocalizedText>
 </GameData>

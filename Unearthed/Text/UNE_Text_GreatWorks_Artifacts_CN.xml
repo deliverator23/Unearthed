@@ -176,15 +176,12 @@
             <Text>Violin</Text>
         </Replace>
         <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_59_NAME" Language="zh_Hans_CN">
-            <Text>Canoe</Text>
-        </Replace>
-        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_60_NAME" Language="zh_Hans_CN">
             <Text>Earthenware Vase</Text>
         </Replace>
-        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_61_NAME" Language="zh_Hans_CN">
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_60_NAME" Language="zh_Hans_CN">
             <Text>Typewriter</Text>
         </Replace>
-        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_62_NAME" Language="zh_Hans_CN">
+        <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_61_NAME" Language="zh_Hans_CN">
             <Text>Decorated Shield</Text>
         </Replace>
         <Replace Tag="LOC_GREATWORK_UNE_ARTIFACT_62_NAME" Language="zh_Hans_CN">
