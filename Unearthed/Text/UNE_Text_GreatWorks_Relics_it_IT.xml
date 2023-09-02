@@ -83,22 +83,22 @@
             <Text>Soldato di ceramica</Text>
         </Row>
         <Replace Tag="LOC_GREATWORK_UNE_RELIC_28_NAME" Language="it_IT">
-            <Text>River Blade</Text>
+            <Text>Coltello da sopravvivenza</Text>
         </Replace>
         <Replace Tag="LOC_GREATWORK_UNE_RELIC_29_NAME" Language="it_IT">
-            <Text>Animal Standard</Text>
+            <Text>Stendardo animale</Text>
         </Replace>
         <Replace Tag="LOC_GREATWORK_UNE_RELIC_30_NAME" Language="it_IT">
-            <Text>Meteoric Dagger</Text>
+            <Text>Pugnale meteorico</Text>
         </Replace>
         <Replace Tag="LOC_GREATWORK_UNE_RELIC_31_NAME" Language="it_IT">
-            <Text>Olifant</Text>
+            <Text>Olifante</Text>
         </Replace>
         <Replace Tag="LOC_GREATWORK_UNE_RELIC_32_NAME" Language="it_IT">
-            <Text>Ossuary</Text>
+            <Text>Ossario</Text>
         </Replace>
         <Replace Tag="LOC_GREATWORK_UNE_RELIC_33_NAME" Language="it_IT">
-            <Text>Fertility Figurine</Text>
+            <Text>Statuetta della fertilità</Text>
         </Replace>
     </LocalizedText>
 </GameData>
